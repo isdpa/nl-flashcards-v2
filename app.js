@@ -140,8 +140,10 @@ function showCard(card) {
   cardEl.style.transition = '';
 
   isFlipped = false;
-  document.getElementById('answer-btns').classList.add('hidden');
-  document.getElementById('skip-area').classList.remove('hidden');
+  document.getElementById('answer-btns').classList.remove('hidden');
+  document.getElementById('skip-btn').classList.remove('hidden');
+  document.getElementById('incorrect-btn').classList.add('hidden');
+  document.getElementById('correct-btn').classList.add('hidden');
 
   document.getElementById('word-nl').textContent = card.nl;
   document.getElementById('word-nl-back').textContent = card.nl;
@@ -175,10 +177,11 @@ function showCard(card) {
 function flip() {
   if (queue.length === 0 || isFlipped) return;
   isFlipped = true;
-  document.getElementById('skip-area').classList.add('hidden');
+  document.getElementById('skip-btn').classList.add('hidden');
   document.getElementById('card').classList.add('flipped');
   setTimeout(() => {
-    document.getElementById('answer-btns').classList.remove('hidden');
+    document.getElementById('incorrect-btn').classList.remove('hidden');
+    document.getElementById('correct-btn').classList.remove('hidden');
   }, 280);
 
   // Correction iPhone : recalcul après flip
@@ -239,7 +242,6 @@ function updateScoreDisplay(correct, remaining, total) {
 function showCompletion() {
   document.getElementById('card').classList.add('hidden');
   document.getElementById('answer-btns').classList.add('hidden');
-  document.getElementById('skip-area').classList.add('hidden');
   document.getElementById('completion').classList.remove('hidden');
 
   // Correction iPhone : recalcul après écran final
