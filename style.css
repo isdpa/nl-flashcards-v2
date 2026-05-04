@@ -363,6 +363,35 @@ main {
   flex-shrink: 0;
 }
 
+/* ── Skip button ── */
+
+.skip-area {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.btn-skip {
+  width: 100%;
+  max-width: 420px;
+  min-height: 48px;
+  border: 2px solid #cbd5e0;
+  border-radius: 12px;
+  background: transparent;
+  color: var(--text-mid);
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: border-color 0.2s, color 0.2s;
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
+}
+
+.btn-skip:hover {
+  border-color: var(--green);
+  color: var(--green);
+}
+
 /* ── Answer buttons ── */
 
 .answer-btns {
