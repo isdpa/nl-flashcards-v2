@@ -187,6 +187,18 @@ function flip() {
    Réponses
 --------------------------------*/
 
+function skipCard() {
+  if (isFlipped || queue.length === 0) return;
+  queue.shift();
+  correctCount++;
+  updateScoreDisplay(correctCount, queue.length, totalCount);
+  if (queue.length === 0) {
+    showCompletion();
+  } else {
+    showCard(queue[0]);
+  }
+}
+
 function markCorrect() {
   if (!isFlipped || queue.length === 0) return;
   queue.shift();
@@ -259,6 +271,7 @@ function setError(msg) {
 
 document.addEventListener('DOMContentLoaded', () => {
   document.getElementById('card').addEventListener('click', flip);
+  document.getElementById('skip-btn').addEventListener('click', e => { e.stopPropagation(); skipCard(); });
   document.getElementById('correct-btn').addEventListener('click', markCorrect);
   document.getElementById('incorrect-btn').addEventListener('click', markIncorrect);
   document.getElementById('show-context').addEventListener('change', toggleContext);
