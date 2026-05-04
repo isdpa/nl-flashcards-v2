@@ -366,19 +366,9 @@ main {
 /* ── Skip button ── */
 
 .btn-skip {
-  width: 100%;
-  min-height: 40px;
-  margin-top: auto;
   border: 2px solid #cbd5e0;
-  border-radius: 12px;
   background: transparent;
   color: var(--text-mid);
-  font-size: 0.9rem;
-  font-weight: 600;
-  cursor: pointer;
-  transition: border-color 0.2s, color 0.2s;
-  -webkit-tap-highlight-color: transparent;
-  touch-action: manipulation;
 }
 
 .btn-skip:hover {

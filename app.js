@@ -141,6 +141,7 @@ function showCard(card) {
 
   isFlipped = false;
   document.getElementById('answer-btns').classList.add('hidden');
+  document.getElementById('skip-area').classList.remove('hidden');
 
   document.getElementById('word-nl').textContent = card.nl;
   document.getElementById('word-nl-back').textContent = card.nl;
@@ -174,6 +175,7 @@ function showCard(card) {
 function flip() {
   if (queue.length === 0 || isFlipped) return;
   isFlipped = true;
+  document.getElementById('skip-area').classList.add('hidden');
   document.getElementById('card').classList.add('flipped');
   setTimeout(() => {
     document.getElementById('answer-btns').classList.remove('hidden');
@@ -237,6 +239,7 @@ function updateScoreDisplay(correct, remaining, total) {
 function showCompletion() {
   document.getElementById('card').classList.add('hidden');
   document.getElementById('answer-btns').classList.add('hidden');
+  document.getElementById('skip-area').classList.add('hidden');
   document.getElementById('completion').classList.remove('hidden');
 
   // Correction iPhone : recalcul après écran final
@@ -271,7 +274,7 @@ function setError(msg) {
 
 document.addEventListener('DOMContentLoaded', () => {
   document.getElementById('card').addEventListener('click', flip);
-  document.getElementById('skip-btn').addEventListener('click', e => { e.stopPropagation(); skipCard(); });
+  document.getElementById('skip-btn').addEventListener('click', skipCard);
   document.getElementById('correct-btn').addEventListener('click', markCorrect);
   document.getElementById('incorrect-btn').addEventListener('click', markIncorrect);
   document.getElementById('show-context').addEventListener('change', toggleContext);
