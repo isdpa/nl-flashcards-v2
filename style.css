@@ -193,8 +193,16 @@ main {
   color: #fff;
   padding: 3px 10px;
   border-radius: 12px;
-  margin-bottom: 14px;
   flex-shrink: 0;
+}
+
+.word-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-bottom: 4px;
 }
 
 /* ── Card front ── */
@@ -259,14 +267,14 @@ main {
 
 .context-nl {
   font-size: 0.88rem;
-  color: var(--text-mid);
+  color: var(--text-dark);
   font-style: italic;
   line-height: 1.5;
 }
 
 .context-fr {
   font-size: 0.8rem;
-  color: var(--text-light);
+  color: var(--text-mid);
   margin-top: 4px;
   line-height: 1.4;
 }
