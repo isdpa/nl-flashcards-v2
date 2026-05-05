@@ -1,9 +1,6 @@
 {
-
   "title": "Vocabulaire Verbes irréguliers",
-
   "cards": [
-
     { "nl": "bakken", "fr": "cuire (au four)", "type": "verbe", "separable": false, "context_nl": "Ik bak brood in de oven.", "context_fr": "Je cuis du pain au four." },
     { "nl": "bedriegen", "fr": "tromper", "type": "verbe", "separable": false, "context_nl": "Hij bedriegt zijn klanten.", "context_fr": "Il trompe ses clients." },
     { "nl": "beginnen", "fr": "commencer", "type": "verbe", "separable": false, "context_nl": "We beginnen morgen.", "context_fr": "Nous commençons demain." },
