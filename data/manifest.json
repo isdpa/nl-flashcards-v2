@@ -1,5 +1,5 @@
 [
-  { "id": "irreguliers", "label": "Irreguliers", "file": "data/irreguliers.json" },
+  { "id": "irreguliers", "label": "irreguliers", "file": "data/irreguliers_full.json" },
   { "id": "meeting", "label": "Meeting", "file": "data/meeting.json" },
   { "id": "cyber",   "label": "Cyber",   "file": "data/cyber.json"   },
   { "id": "it",      "label": "IT",      "file": "data/it.json"      },
