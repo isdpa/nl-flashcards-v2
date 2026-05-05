@@ -1,0 +1,1265 @@
+{
+  "title": "Vocabulaire Verbes irréguliers",
+  "cards": [
+    {
+      "nl": "bakken",
+      "fr": "cuire (au four)",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "bakte",
+      "participe_passe": "gebakken",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "bedriegen",
+      "fr": "tromper",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "bedroog",
+      "participe_passe": "bedrogen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "beginnen",
+      "fr": "commencer",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "begon",
+      "participe_passe": "begonnen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "begrijpen",
+      "fr": "comprendre",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "begreep",
+      "participe_passe": "begrepen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "beschrijven",
+      "fr": "décrire",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "beschreef",
+      "participe_passe": "beschreven",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "besluiten",
+      "fr": "décider",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "besloot",
+      "participe_passe": "besloten",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "bestaan",
+      "fr": "exister",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "bestond",
+      "participe_passe": "bestaan",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "bewegen",
+      "fr": "bouger",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "bewoog",
+      "participe_passe": "bewogen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "bezoeken",
+      "fr": "visiter",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "bezocht",
+      "participe_passe": "bezocht",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "bieden",
+      "fr": "offrir",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "bood",
+      "participe_passe": "geboden",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "bijten",
+      "fr": "mordre",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "beet",
+      "participe_passe": "gebeten",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "binden",
+      "fr": "lier",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "bond",
+      "participe_passe": "gebonden",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "blazen",
+      "fr": "souffler",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "blies",
+      "participe_passe": "geblazen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "blijven",
+      "fr": "rester",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "bleef",
+      "participe_passe": "gebleven",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "breken",
+      "fr": "casser",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "brak",
+      "participe_passe": "gebroken",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "brengen",
+      "fr": "apporter",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "bracht",
+      "participe_passe": "gebracht",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "buigen",
+      "fr": "plier",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "boog",
+      "participe_passe": "gebogen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "denken",
+      "fr": "penser",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "dacht",
+      "participe_passe": "gedacht",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "doen",
+      "fr": "faire",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "deed",
+      "participe_passe": "gedaan",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "dragen",
+      "fr": "porter",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "droeg",
+      "participe_passe": "gedragen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "drinken",
+      "fr": "boire",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "dronk",
+      "participe_passe": "gedronken",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "duiken",
+      "fr": "plonger",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "dook",
+      "participe_passe": "gedoken",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "eten",
+      "fr": "manger",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "at",
+      "participe_passe": "gegeten",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "fluiten",
+      "fr": "siffler",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "floot",
+      "participe_passe": "gefloten",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "gaan",
+      "fr": "aller",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "ging",
+      "participe_passe": "gegaan",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "genezen",
+      "fr": "guérir",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "genas",
+      "participe_passe": "genezen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "genieten",
+      "fr": "profiter",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "genoot",
+      "participe_passe": "genoten",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "geven",
+      "fr": "donner",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "gaf",
+      "participe_passe": "gegeven",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "gieten",
+      "fr": "verser",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "goot",
+      "participe_passe": "gegoten",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "grijpen",
+      "fr": "saisir",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "greep",
+      "participe_passe": "gegrepen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "hangen",
+      "fr": "pendre",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "hing",
+      "participe_passe": "gehangen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "hebben",
+      "fr": "avoir",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "had",
+      "participe_passe": "gehad",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "helpen",
+      "fr": "aider",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "hielp",
+      "participe_passe": "geholpen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "heten",
+      "fr": "s'appeler",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "heette",
+      "participe_passe": "geheten",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "houden",
+      "fr": "garder / aimer",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "hield",
+      "participe_passe": "gehouden",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "kiezen",
+      "fr": "choisir",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "koos",
+      "participe_passe": "gekozen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "kijken",
+      "fr": "regarder",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "keek",
+      "participe_passe": "gekeken",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "klimmen",
+      "fr": "grimper",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "klom",
+      "participe_passe": "geklommen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "komen",
+      "fr": "venir",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "kwam",
+      "participe_passe": "gekomen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "kopen",
+      "fr": "acheter",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "kocht",
+      "participe_passe": "gekocht",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "krijgen",
+      "fr": "recevoir",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "kreeg",
+      "participe_passe": "gekregen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "kruipen",
+      "fr": "ramper",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "kroop",
+      "participe_passe": "gekropen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "kunnen",
+      "fr": "pouvoir",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "kon",
+      "participe_passe": "gekund",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "lachen",
+      "fr": "rire",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "lachte",
+      "participe_passe": "gelachen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "laden",
+      "fr": "charger",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "laadde",
+      "participe_passe": "geladen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "laten",
+      "fr": "laisser",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "liet",
+      "participe_passe": "gelaten",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "lezen",
+      "fr": "lire",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "las",
+      "participe_passe": "gelezen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "liegen",
+      "fr": "mentir",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "loog",
+      "participe_passe": "gelogen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "liggen",
+      "fr": "être couché",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "lag",
+      "participe_passe": "gelegen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "lijden",
+      "fr": "souffrir",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "leed",
+      "participe_passe": "geleden",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "lijken",
+      "fr": "sembler",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "leek",
+      "participe_passe": "geleken",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "lopen",
+      "fr": "marcher",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "liep",
+      "participe_passe": "gelopen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "meten",
+      "fr": "mesurer",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "mat",
+      "participe_passe": "gemeten",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "moeten",
+      "fr": "devoir",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "moest",
+      "participe_passe": "gemoeten",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "mogen",
+      "fr": "pouvoir (permission)",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "mocht",
+      "participe_passe": "gemogen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "nemen",
+      "fr": "prendre",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "nam",
+      "participe_passe": "genomen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "ontbijten",
+      "fr": "prendre le petit-déjeuner",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "ontbeet",
+      "participe_passe": "ontbeten",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "ontvangen",
+      "fr": "recevoir",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "ontving",
+      "participe_passe": "ontvangen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "raden",
+      "fr": "deviner",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "raadde",
+      "participe_passe": "geraden",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "rijden",
+      "fr": "conduire",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "reed",
+      "participe_passe": "gereden",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "roepen",
+      "fr": "crier",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "riep",
+      "participe_passe": "geroepen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "ruiken",
+      "fr": "sentir",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "rook",
+      "participe_passe": "geroken",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "schenken",
+      "fr": "servir",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "schonk",
+      "participe_passe": "geschonken",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "scheren",
+      "fr": "raser",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "schoor",
+      "participe_passe": "geschoren",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "schieten",
+      "fr": "tirer",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "schoot",
+      "participe_passe": "geschoten",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "schijnen",
+      "fr": "briller",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "scheen",
+      "participe_passe": "geschenen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "schrijven",
+      "fr": "écrire",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "schreef",
+      "participe_passe": "geschreven",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "schrikken",
+      "fr": "surprendre",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "schrok",
+      "participe_passe": "geschrokken",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "slaan",
+      "fr": "frapper",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "sloeg",
+      "participe_passe": "geslagen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "slapen",
+      "fr": "dormir",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "sliep",
+      "participe_passe": "geslapen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "sluiten",
+      "fr": "fermer",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "sloot",
+      "participe_passe": "gesloten",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "snijden",
+      "fr": "couper",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "sneed",
+      "participe_passe": "gesneden",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "spijten",
+      "fr": "regretter",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "speet",
+      "participe_passe": "gespeten",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "spreken",
+      "fr": "parler",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "sprak",
+      "participe_passe": "gesproken",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "springen",
+      "fr": "sauter",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "sprong",
+      "participe_passe": "gesprongen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "staan",
+      "fr": "être debout",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "stond",
+      "participe_passe": "gestaan",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "steken",
+      "fr": "piquer",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "stak",
+      "participe_passe": "gestoken",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "stelen",
+      "fr": "voler",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "stal",
+      "participe_passe": "gestolen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "sterven",
+      "fr": "mourir",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "stierf",
+      "participe_passe": "gestorven",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "stijgen",
+      "fr": "monter",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "steeg",
+      "participe_passe": "gestegen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "strijken",
+      "fr": "repasser",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "streek",
+      "participe_passe": "gestreken",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "treffen",
+      "fr": "rencontrer",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "trof",
+      "participe_passe": "getroffen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "trekken",
+      "fr": "tirer",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "trok",
+      "participe_passe": "getrokken",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "vallen",
+      "fr": "tomber",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "viel",
+      "participe_passe": "gevallen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "vangen",
+      "fr": "attraper",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "ving",
+      "participe_passe": "gevangen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "varen",
+      "fr": "naviguer",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "voer",
+      "participe_passe": "gevaren",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "vechten",
+      "fr": "se battre",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "vocht",
+      "participe_passe": "gevochten",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "verbergen",
+      "fr": "cacher",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "verborg",
+      "participe_passe": "verborgen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "verbieden",
+      "fr": "interdire",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "verbood",
+      "participe_passe": "verboden",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "verbinden",
+      "fr": "relier",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "verbond",
+      "participe_passe": "verbonden",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "verblijven",
+      "fr": "séjourner",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "verbleef",
+      "participe_passe": "verbleven",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "verdwijnen",
+      "fr": "disparaître",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "verdween",
+      "participe_passe": "verdwenen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "vergelijken",
+      "fr": "comparer",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "vergeleek",
+      "participe_passe": "vergeleken",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "vergeten",
+      "fr": "oublier",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "vergat",
+      "participe_passe": "vergeten",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "verkopen",
+      "fr": "vendre",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "verkocht",
+      "participe_passe": "verkocht",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "verlaten",
+      "fr": "quitter",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "verliet",
+      "participe_passe": "verlaten",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "verliezen",
+      "fr": "perdre",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "verloor",
+      "participe_passe": "verloren",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "verschijnen",
+      "fr": "apparaître",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "verscheen",
+      "participe_passe": "verschenen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "verslijten",
+      "fr": "user",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "versleet",
+      "participe_passe": "versleten",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "verslinden",
+      "fr": "dévorer",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "verslond",
+      "participe_passe": "verslonden",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "verstaan",
+      "fr": "comprendre (oral)",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "verstond",
+      "participe_passe": "verstaan",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "vertrekken",
+      "fr": "partir",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "vertrok",
+      "participe_passe": "vertrokken",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "verzenden",
+      "fr": "envoyer",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "verzond",
+      "participe_passe": "verzonden",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "verzinnen",
+      "fr": "inventer",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "verzon",
+      "participe_passe": "verzonnen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "vinden",
+      "fr": "trouver",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "vond",
+      "participe_passe": "gevonden",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "vliegen",
+      "fr": "voler",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "vloog",
+      "participe_passe": "gevlogen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "voorzien",
+      "fr": "prévoir",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "voorzag",
+      "participe_passe": "voorzien",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "vragen",
+      "fr": "demander",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "vroeg",
+      "participe_passe": "gevraagd",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "vriezen",
+      "fr": "geler",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "vroor",
+      "participe_passe": "gevroren",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "wassen",
+      "fr": "laver",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "waste",
+      "participe_passe": "gewassen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "wegen",
+      "fr": "peser",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "woog",
+      "participe_passe": "gewogen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "werpen",
+      "fr": "jeter",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "wierp",
+      "participe_passe": "geworpen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "weten",
+      "fr": "savoir",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "wist",
+      "participe_passe": "geweten",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "wijzen",
+      "fr": "montrer",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "wees",
+      "participe_passe": "gewezen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "willen",
+      "fr": "vouloir",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "wilde",
+      "participe_passe": "gewild",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "worden",
+      "fr": "devenir",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "werd",
+      "participe_passe": "geworden",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "zeggen",
+      "fr": "dire",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "zei",
+      "participe_passe": "gezegd",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "zenden",
+      "fr": "envoyer",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "zond",
+      "participe_passe": "gezonden",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "zien",
+      "fr": "voir",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "zag",
+      "participe_passe": "gezien",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "zijn",
+      "fr": "être",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "was",
+      "participe_passe": "geweest",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "zingen",
+      "fr": "chanter",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "zong",
+      "participe_passe": "gezongen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "zitten",
+      "fr": "être assis",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "zat",
+      "participe_passe": "gezeten",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "zoeken",
+      "fr": "chercher",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "zocht",
+      "participe_passe": "gezocht",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "zullen",
+      "fr": "aller (futur)",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "zou",
+      "participe_passe": "zullen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "zwemmen",
+      "fr": "nager",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "zwom",
+      "participe_passe": "gezwommen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    },
+    {
+      "nl": "zwijgen",
+      "fr": "se taire",
+      "type": "verbe",
+      "separable": false,
+      "preterit": "zweeg",
+      "participe_passe": "gezwegen",
+      "context_nl": "Ik gebruik het werkwoord in een zin.",
+      "context_fr": "J’utilise le verbe dans une phrase."
+    }
+  ]
+}
