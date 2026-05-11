@@ -3,25 +3,16 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-  <title>Flashcards Néerlandais</title>
+  <title>Verbes Irréguliers – Néerlandais</title>
   <link rel="stylesheet" href="style.css">
 </head>
-<body>
+<body class="page-irreguliers">
   <div id="app">
     <header>
-      <h1>Flashcards Néerlandais</h1>
-      <div class="selectors">
-        <select id="deck-select" class="sel"></select>
-        <select id="type-select" class="sel">
-          <option value="all">Tous les types</option>
-          <option value="verbe">Verbes</option>
-          <option value="adjectif">Adjectifs</option>
-          <option value="adverbe">Adverbes</option>
-          <option value="mot">Mots communs</option>
-        </select>
-      </div>
-      <div class="header-nav">
-        <a href="irreguliers.html" class="btn-nav-link">Verbes irréguliers &#8594;</a>
+      <div class="header-top">
+        <a href="index.html" class="btn-back-link">&#8592; Retour</a>
+        <h1>Verbes Irréguliers</h1>
+        <span></span>
       </div>
     </header>
 
@@ -40,33 +31,47 @@
       <div class="card-area">
         <div id="card" class="card">
           <div class="card-inner">
+
             <div class="card-front">
               <div class="card-header">
                 <span id="badge-front" class="badge"></span>
                 <p id="word-nl" class="word"></p>
-                <span id="sep-badge-front" class="sep-badge hidden">séparable</span>
+                <span></span>
               </div>
+              <p id="word-fr-front" class="word-fr-front"></p>
               <p class="hint">appuyez pour révéler</p>
             </div>
+
             <div class="card-back">
               <div class="card-header">
                 <span id="badge-back" class="badge"></span>
                 <p id="word-nl-back" class="word-nl-back"></p>
-                <span id="sep-badge-back" class="sep-badge hidden">séparable</span>
+                <span></span>
               </div>
-              <p id="word-fr" class="word-fr"></p>
+              <div class="conjugation-table">
+                <div class="conj-row">
+                  <span class="conj-label">Prétérit</span>
+                  <span id="conj-preterit" class="conj-value"></span>
+                </div>
+                <div class="conj-divider"></div>
+                <div class="conj-row">
+                  <span class="conj-label">Participe passé</span>
+                  <span id="conj-participe" class="conj-value"></span>
+                </div>
+              </div>
               <div id="context-box" class="context-box hidden">
                 <p id="context-nl" class="context-nl"></p>
                 <p id="context-fr" class="context-fr"></p>
               </div>
             </div>
+
           </div>
         </div>
 
         <div id="completion" class="completion hidden">
           <p class="completion-icon">&#10003;</p>
           <p class="completion-title">Bravo !</p>
-          <p class="completion-sub">Tous les mots sont appris.</p>
+          <p class="completion-sub">Tous les verbes sont révisés.</p>
           <button id="restart-btn" class="restart-btn">Recommencer</button>
         </div>
       </div>
@@ -79,13 +84,13 @@
       </div>
 
       <div id="answer-btns" class="answer-btns hidden">
-        <button id="skip-btn"      class="btn-answer btn-skip"     >Passer &#8594;</button>
+        <button id="skip-btn"      class="btn-answer btn-skip"            >Passer &#8594;</button>
         <button id="incorrect-btn" class="btn-answer btn-incorrect hidden">&#10007; Incorrect</button>
         <button id="correct-btn"   class="btn-answer btn-correct   hidden">&#10003; Correct</button>
       </div>
     </main>
   </div>
 
-  <script src="app.js"></script>
+  <script src="irreguliers.js"></script>
 </body>
 </html>

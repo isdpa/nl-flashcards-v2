@@ -49,6 +49,52 @@ header h1 {
   margin-bottom: 12px;
 }
 
+.header-top {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+  margin-bottom: 4px;
+}
+
+.btn-back-link {
+  justify-self: start;
+  color: rgba(255, 255, 255, 0.85);
+  text-decoration: none;
+  font-size: 0.82rem;
+  font-weight: 600;
+  border: 1.5px solid rgba(255, 255, 255, 0.45);
+  border-radius: 16px;
+  padding: 4px 12px;
+  transition: background 0.2s;
+  -webkit-tap-highlight-color: transparent;
+  white-space: nowrap;
+}
+
+.btn-back-link:hover {
+  background: rgba(255, 255, 255, 0.15);
+}
+
+.header-nav {
+  margin-top: 10px;
+}
+
+.btn-nav-link {
+  display: inline-block;
+  color: rgba(255, 255, 255, 0.9);
+  text-decoration: none;
+  font-size: 0.82rem;
+  font-weight: 600;
+  border: 1.5px solid rgba(255, 255, 255, 0.5);
+  border-radius: 16px;
+  padding: 5px 14px;
+  transition: background 0.2s;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.btn-nav-link:hover {
+  background: rgba(255, 255, 255, 0.15);
+}
+
 .selectors {
   display: flex;
   gap: 10px;
@@ -423,6 +469,57 @@ main {
 
 .hidden {
   display: none !important;
+}
+
+/* ── Irregular verbs page ── */
+
+.page-irreguliers .card-area {
+  height: 360px;
+  height: 50dvh;
+}
+
+.word-fr-front {
+  font-size: clamp(0.95rem, 3.5vw, 1.2rem);
+  color: var(--text-mid);
+  font-weight: 500;
+  text-align: center;
+}
+
+.conjugation-table {
+  width: 100%;
+  background: #f1f5f9;
+  border-radius: 10px;
+  padding: 10px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.conj-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 0;
+}
+
+.conj-divider {
+  height: 1px;
+  background: #e2e8f0;
+}
+
+.conj-label {
+  font-size: 0.72rem;
+  color: var(--text-light);
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  flex-shrink: 0;
+}
+
+.conj-value {
+  font-size: clamp(1rem, 3.5vw, 1.25rem);
+  font-weight: 700;
+  color: var(--accent);
 }
 
 /* ── Landscape mobile ── */
